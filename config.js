@@ -62,7 +62,7 @@ global.ttq = `Thanks to:
 •My ortu
 
 Jika menemukan bug atau request fitur dan join bot harap chat owner dengan cara:
-*${prefix}report* [pesan].
+*!report* [pesan].
 
 (Bot join group NOT FREE!)
 Price:
