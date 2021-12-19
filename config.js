@@ -40,20 +40,21 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = '𝑳𝒖𝒄𝒖 乂⁩ 𝑩𝒐𝒕'
-global.author = '@rasel.ganz\n         ×͜×'
+global.packname = 'Vale 乂⁩ Bot'
+global.author = '@hafarsyd×͜×'
 
-global.wait = '*Tunggu sebentar ya sayang*'
+global.wait = '*Tunggu sebentar ya*'
 global.eror = 'Maaf terjadi kesalahan'
 global.fla = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text='
-global.watermark = '© rasel ×͜×' //change the watermark (beberapa harus manual)
-global.version = '𝑳𝑼𝑪𝑼 𝑩𝑶𝑻 @^1.1.4'
+global.watermark = '© ValeBot×͜×' //change the watermark (beberapa harus manual)
+global.version = 'Vale Bot @^1.1.4'
 global.ttq = `Thanks to:
 •Allah swt
 •Nurutomo
 •Ariffb
+•HafARsyd
 •IrwanX
-•Rasel (devloper) 
+•Rasel
 •Nadin
 •Aca Mirabel
 •Penyedia Layanan API
@@ -61,11 +62,11 @@ global.ttq = `Thanks to:
 •My ortu
 
 Jika menemukan bug atau request fitur dan join bot harap chat owner dengan cara:
-*-report* [pesan].
+*${prefix}report* [pesan].
 
 (Bot join group NOT FREE!)
 Price:
-10K untuk 1 bulan
+50K untuk 1 bulan
 Untuk 1 group
 
 Nb:bot ini masih terus dikembangkan.`
@@ -75,7 +76,7 @@ global.image = 'https://telegra.ph/file/c9a5e49b5336604baa137.jpg'//change image
 global.thumbfoto = 'https://telegra.ph/file/c9a5e49b5336604baa137.jpg' //change thumbnail foto tools
 global.yamete = 'https://telegra.ph/file/f7b13f18a1f21e5ca6aed.jpg' //change qr donate
 global.sumberurl = 'https://instagram.com/rasel.ganz'
-global.deskripsiurl = 'Saya adalah Bot WhatsApp ×͜×.'
+global.deskripsiurl = 'Saya adalah Bot WhatsApp By HafARsyd×͜×.'
 
 global.multiplier = 69 // Semakin tinggi, semakin sulit naik level
 
@@ -87,3 +88,4 @@ fs.watchFile(file, () => {
   delete require.cache[file]
   require(file)
 })
+
